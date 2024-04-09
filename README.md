@@ -34,5 +34,5 @@ pip install -r requirements.txt
 As the number of points decreases, the results sampled by AIVS retain the essential structural features of the original point cloud remarkably well. This superiority over FPS highlights its effectiveness.
 
 <p align="center">
-  <img src="AIVS-Python/pic/demo.png">
+  <img src="./AVIS-python/pic/demo.png">
 </p>
